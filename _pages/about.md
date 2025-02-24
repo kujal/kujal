@@ -3,5 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-I'm Eero, a software developer with experience in web development...
-
+Welcome to my portfolio! This site showcases some of the projects I've worked on over the years. Most of the code is licensed under the MIT license (check the repositories for details), so if you find any of it useful, please feel free to use it as you wish.
